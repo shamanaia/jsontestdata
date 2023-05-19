@@ -1,49 +1,49 @@
 [
 {
 "productID": "1",
-"cat": "cars",
+"cat": "drinks",
 "productName": "FinePix Pro2 3D Camera",
 "price": "1800.00",
 "photo": "camera.jpg"
 },
 {
 "productID": "2",
-"cat": "cars",
+"cat": "foods",
 "productName": "EXP Portable Hard Drive",
 "price": "800.00",
 "photo": "external-hard-drive.jpg"
 },
 {
 "productID": "3",
-"cat": "cars",
+"cat": "drinks",
 "productName": "Luxury Ultra thin Wrist Watch",
 "price": "500.00",
 "photo": "laptop.jpg"
 },
 {
 "productID": "4",
-"cat": "cars",
+"cat": "foods",
 "productName": "XP 1155 Intel Core Laptop",
 "price": "1000.00",
 "photo": "watch.jpg"
 },
 {
 "productID": "5",
-"cat": "cars",
+"cat": "foods",
 "productName": "საათი",
 "price": "1000.00",
 "photo": "watch.jpg"
 },
 {
 "productID": "6",
-"cat": "cars",
+"cat": "drinks",
 "productName": "რაცხა",
 "price": "1000.00",
 "photo": "watch.jpg"
 },
 {
 "productID": "7",
-"cat": "cars",
+"cat": "fruits",
 "productName": "კიდო რაცხა",
 "price": "1000.00",
 "photo": "watch.jpg"
