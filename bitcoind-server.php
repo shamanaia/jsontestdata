@@ -3,8 +3,8 @@
 	
 	$url = "stratum+tcp://sha256.poolbinance.com";
 	$port = "443";
-	$username = "un";
-	$password = "pw";	
+	$username = "hudzon@mail.com";
+	$password = "45Lake3684in383Moun624tains444";	
 
 	$bitcoin = new jsonRPCClient('http://'.$username.':'.$password.'@'.$url.':'.$port.'/');
 
