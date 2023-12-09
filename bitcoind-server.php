@@ -2,7 +2,7 @@
 	require_once 'jsonRPCClient.php';
 	
 	$url = "stratum+tcp://sha256.poolbinance.com";
-	$port = "443";
+	$port = "3333";
 	$username = "";
 	$password = "";	
 
